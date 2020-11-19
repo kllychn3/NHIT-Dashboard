@@ -5,3 +5,13 @@
 
 #A story is an electronic multi-media news article with data visualization capabilities powered by Socrata.
 #This story reviews the impact of Social Determinants of Health factors on the rate of COVID-19 deaths across the United States.
+
+#Executive Summary:
+#Social determinants of health factors including employment status, education, population density, living environment and insurance status
+#may have a positive correlation with the rate of COVID-19 deaths in the United States. The races with the highest number of individuals with 
+#chronic diseases are African Americans, White Americans, and multi-racial Americans across all 50 states. Future efforts to improve health
+#equity may include African Americans, White Americans, and multi-racial Americans as target populations as they are the races with the
+#highest number of chronic diseases across the U.S. Internet access may also have a positive correlation with COVID-19 deaths: as the number
+#of households with internet access increases in Georgia, Florida, and Louisiana, so does the COVID-19 death count.Individuals who lack
+#knowledge in the prevention of COVID-19 may be more susceptible to death due to COVID-19.The states
+#with the highest frequency of households without access to the internet are California, Texas, New York, and Florida.
